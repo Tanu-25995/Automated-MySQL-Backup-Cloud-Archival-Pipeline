@@ -1,0 +1,5 @@
+aws-venv/
+backups/
+*.sql
+*.sql.gz
+__pycache__/
